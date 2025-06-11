@@ -14,8 +14,8 @@
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "@types/node": "^22.15.30",
-    "@types/react": "^19.1.6",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.1.7",
     "@types/react-dom": "^19.1.6",
     "@types/vscode-webview": "^1.57.5",
     "react-scripts": "^5.0.1",
